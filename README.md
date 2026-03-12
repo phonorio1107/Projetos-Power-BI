@@ -6,7 +6,7 @@ O projeto simula um cenário corporativo em que uma empresa precisa organizar su
 
 ---
 
-## 🎯 Objetivo do Projeto
+# Objetivo do Projeto
 
 Criar um dashboard que permita:
 
@@ -17,28 +17,25 @@ Criar um dashboard que permita:
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
-- Microsoft Excel
-- Power BI
-- Modelagem de dados
-- Star Schema
-- Tratamento e organização de dados
+- Microsoft Excel (dados)
+- Power BI (ETL, modelagem e visualização)
+- Figma (UX Design)
 
 ---
 
-## 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
 
 /dados → base de dados utilizada  
 /modelagem → estrutura de relacionamento entre tabelas  
 /dashboard → arquivo final do dashboard  
-/imagens → prints das visualizações
 
 ---
 
-## 📈 Principais Análises
+# Principais Análises
 
 O dashboard apresenta:
 
@@ -53,40 +50,19 @@ Essas análises permitem identificar padrões financeiros e compreender melhor o
 
 ---
 
-## 🧠 Aprendizados do Projeto
+# Aprendizados do Projeto
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos importantes de análise de dados:
 
-- Organização e limpeza de dados
+- Organização e limpeza de dados (Power Query)
 - Modelagem dimensional (Star Schema)
 - Criação de métricas e indicadores
 - Construção de dashboards interativos
 
 ---
 
-## 📊 Dashboard
-
-Exemplo de visualização:
-
-(Adicionar imagem do dashboard aqui)
-
----
-
-## 🚀 Possíveis Melhorias Futuras
-
-- Implementar novas métricas financeiras
-- Adicionar análise de previsão de receita
-- Automatizar atualização de dados
-- Criar novas visualizações estratégicas
-
----
-
-## 👤 Autor
-
+# Autor
 Pedro Henrique  
 Estudante de Gestão de TI e entusiasta de Análise de Dados.
 
-🔗 LinkedIn: (seu linkedin)  
-💻 GitHub: (seu github)
-
----
+🔗 LinkedIn: www.linkedin.com/in/pedro-hoffman
